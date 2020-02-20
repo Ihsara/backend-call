@@ -8,6 +8,7 @@ authors = ["Ihsara <longchau21@gmail.com>"]
 python = "^3.7"
 requests = "^2.23.0"
 jsonify = "^0.5"
+flake8 = "^3.7.9"
 
 [tool.poetry.dev-dependencies]
 
